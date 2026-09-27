@@ -26,17 +26,17 @@
 
 详细版本路线见：
 
-- [产品迭代路线](docs/产品迭代路线.md)
+- [产品迭代路线](产品迭代路线.md)
 
 ## 云同步
 
 首次使用孤舟云端时，需要填写自己的 Supabase `Project URL` 与 `Publishable Key`。
 
-![孤舟云端配置](screenshots/孤舟云端配置.png)
+![孤舟云端配置](screenshots/登录界面.png)
 
 详细配置方法见：
 
-- [Supabase 云同步配置教程](docs/Supabase云同步配置教程.md)
+- [Supabase 云同步配置教程](Supabase云同步配置教程.md)
 
 ## Demo
 
