@@ -36,7 +36,7 @@
 
 详细配置方法见：
 
-- [Supabase 云同步配置教程](Supabase云同步配置教程.md)
+- [Supabase 云同步配置教程](孤舟码字_Supabase云同步配置教程.md)
 
 ## Demo
 
