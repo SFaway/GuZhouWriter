@@ -42,7 +42,6 @@
 
 Windows Demo 已放在 `release/孤舟码字_V2.2.5_Windows.zip`。
 
-如果将项目发布到 GitHub，建议把该安装包上传到 **GitHub Releases**，仓库本体主要保留 README、产品文档与截图。
 
 ## 产品设计思路
 
